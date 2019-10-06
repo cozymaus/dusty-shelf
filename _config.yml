@@ -1,12 +1,12 @@
 # Site Info
-title:              "SmugCroc's Dusty Shelf"
+title:              "Liz Lorena's Dusty Shelf"
 description:        "My collectables, video games, fashion accessories, and more."
 
 # Author Info
 author_name:        "Liz Lorena Berberena"
 author_email:       lizlberberena@gmail.com
 github_username:    byliz
-twitter_username:   smugcroc
+twitter_username:   lizlorenadotcom
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
